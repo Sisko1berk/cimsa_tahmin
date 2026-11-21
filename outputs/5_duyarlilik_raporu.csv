@@ -1,0 +1,6 @@
+﻿Senaryo,Ana_Model_Tahmin_MPa,Muh_LR_Tahmin_MPa,Ham_LR_Tahmin_MPa,Fark_MPa,Fark_Yuzde,W_C_Orani,W_B_Orani,Klinker_Payi_Yuzde,Toplam_Kutle_kg_m3,Detayli_Etki
+Yüksek Çimento (+%25),42.13,43.21,38.15,4.95,13.3,0.48,0.43,90.6,2398.0,Çimento: 310->388 (+25%) => +4.95 MPa
+Düşük Su (-%15) + Akışkanlaştırıcı,44.66,37.37,34.74,7.49,20.1,0.51,0.45,88.6,2299.0,Su: 185->157 (-15%) => +6.96 MPa ; Akışkanlaştırıcı: 6->12 (+100%) => +0.53 MPa
+Cüruf/Kül İkameli Çevreci Karışım,38.65,37.13,33.01,1.48,4.0,0.82,0.42,51.3,2341.0,Çimento: 310->200 (-35%) => -6.83 MPa ; Cüruf (Slag): 40->145 (+262%) => +3.80 MPa ; Uçucu Kül: 0->45 kg => +0.14 MPa ; Su: 185->165 (-11%) => +4.38 MPa
+7 Günlük Erken Dayanım Testi,22.8,21.02,26.78,-14.38,-38.7,0.6,0.53,88.6,2321.0,Kür Yaşı (Gün): 28->7 (-75%) => -14.38 MPa
+90 Günlük Uzun Kür Süresi,41.73,42.35,35.97,4.55,12.2,0.6,0.53,88.6,2321.0,Kür Yaşı (Gün): 28->90 (+221%) => +4.55 MPa
